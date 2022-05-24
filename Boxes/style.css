@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+#first{
+    background-color: aqua;
+    padding: 50px;
+    margin: 10px;
+}
+
+.middle{
+    background-color: brown;
+    margin: 10px;
+    padding: 50px;
+}
+
+#second{
+    background-color: aquamarine;
+    margin: 10px;
+    padding: 50px;
+}
